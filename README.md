@@ -16,7 +16,7 @@ app to create private and public stories.
 
 - moment: date
 
-- morgan: for loggin
+- morgan: for logging - logs information about incoming HTTP requests and HTTP responses
 
 - passport: for authentication
 
